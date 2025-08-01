@@ -6,7 +6,7 @@ Este repositório contém uma coleção de scripts em MATLAB que implementam var
 ## Implementações do Método Dual Simplex em MATLAB
 Esta seção expande o repositório https://github.com/Lucca-Rodrigues-main/Metodos-Simplex-Matlab com ferramentas para análise de dualidade e sensibilidade em problemas de programação linear. Os códigos permitem a conversão de um problema primal para seu dual, a aplicação do algoritmo Dual Simplex e a realização de análises pós-otimalidade.
 
-<img width="512" height="266" alt="image" src="https://github.com/user-attachments/assets/edf3a094-8b96-4301-86f8-bbb1fa36a2c3" />
+<img width="614" height="326" alt="image" src="https://github.com/user-attachments/assets/55508004-603b-43bc-a77a-2c378a6f221e" />
 
 Os seguintes scripts e métodos foram adicionados:
 * **Conversão Primal-Dual**
